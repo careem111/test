@@ -14,3 +14,5 @@ ExecStop=-/usr/bin/docker rm artifactory
 
 [Install]
 WantedBy=multi-user.target
+
+#https://quicknotepadtutorial.blogspot.com/2020/07/how-to-install-jfrog-artifactory-on.html
