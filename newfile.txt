@@ -10,5 +10,3 @@ hi this is from new branch
 
 this is from main branch
 
-
-test for git reset/revert after push
